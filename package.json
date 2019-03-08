@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/Geeeva/Cryptocurrency-table",
-  "name": "cryptocurrency-table",
+  "homepage": "https://github.com/Geeeva/Cryptocurrency-ranking-overview",
+  "name": "cryptocurrency-ranking-overview",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
