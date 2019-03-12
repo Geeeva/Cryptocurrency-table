@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Geeeva/Cryptocurrency-ranking-overview/precache-manifest.aee7fa2f211c69a9c058bcf530c06f00.js"
+  "/Cryptocurrency-ranking-overview/precache-manifest.6e083bb00cfd4f70390649d7d2da5b1a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Geeeva/Cryptocurrency-ranking-overview/index.html", {
+workbox.routing.registerNavigationRoute("/Cryptocurrency-ranking-overview/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
