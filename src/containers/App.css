@@ -128,7 +128,7 @@ iframe {
 
 .box-with-text {
     text-align: center;
-    color: #620E8E;
+    color: #086667;
     margin-top: 25px;
     margin-bottom: 50px;
     text-transform: uppercase;
@@ -188,11 +188,11 @@ th, td {
 .table100.ver6 {
     border-radius: 16px;
     overflow: hidden;
-    background: #7918f2;
-    background: -webkit-linear-gradient(to bottom right, #ac32e4, #4801ff);
-    background: -o-linear-gradient(to bottom right, #ac32e4, #4801ff);
-    background: -moz-linear-gradient(to bottom right, #ac32e4, #4801ff);
-    background: linear-gradient(to bottom right, #ac32e4, #4801ff);
+    background: #125a75;
+    background: -webkit-linear-gradient(to bottom right, #0a8889, #125a75);
+    background: -o-linear-gradient(to bottom right, #0a8889, #125a75);
+    background: -moz-linear-gradient(to bottom right, #0a8889, #125a75);
+    background: linear-gradient(to bottom right, #0a8889, #125a75);
 }
 
 .table100.ver6 table {
@@ -201,7 +201,7 @@ th, td {
 
 .table100.ver6 td {
     font-family: Montserrat-Regular;
-    font-size: 18px;
+    font-size: 16px;
     color: #fff;
     line-height: 1.4;
 }
