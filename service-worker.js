@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Cryptocurrency-ranking-overview/precache-manifest.6e083bb00cfd4f70390649d7d2da5b1a.js"
+  "/Cryptocurrency-ranking-overview/precache-manifest.a8c1f05c91ef4a2fc376178c295153e3.js"
 );
 
 workbox.clientsClaim();
